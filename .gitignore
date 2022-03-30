@@ -1,0 +1,9 @@
+#UI Vision Log Files
+logs/*.txt
+
+#Gmail Creator Output files
+macros/99_EmailOutput/*.csv
+datasources/*.csv
+
+# MacOS files
+.DS_Store
